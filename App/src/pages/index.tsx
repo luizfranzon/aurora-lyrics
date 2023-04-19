@@ -70,10 +70,10 @@ export default function Home() {
         {
           currentLyrics.verses.map((verse, index) => {
             return (
-              <div key={index} className='mt-4 max-w-md'>
+              <div key={index} className='mt-4 px-4 max-w-md'>
                 {
                   verse.lines.map((line, index) => {
-                    return <p key={index} className='text-white md:text-xl'>{line}</p>
+                    return <p key={index} className='text-white text-center md:text-xl md:text-left'>{line}</p>
                   })
                 }
               </div>
