@@ -976,81 +976,81 @@
           "duration": "03:18",
           "lyrics": {
             "verses": [
-            {
-            "lines": [
-            "I would like to leave this city",
-            "This old town don't smell too pretty and",
-            "I can feel the warning signs running around my mind"
+              {
+                "lines": [
+                  "I would like to leave this city",
+                  "This old town don't smell too pretty and",
+                  "I can feel the warning signs running around my mind"
+                ]
+              },
+              {
+                "lines": [
+                  "And when I leave this island",
+                  "I'll book myself into a soul asylum",
+                  "I can feel the warning signs running around my mind"
+                ]
+              },
+              {
+                "lines": [
+                  "So here I go",
+                  "I'm still scratching around in the same old hole",
+                  "My body feels young, but my mind is very old"
+                ]
+              },
+              {
+                "lines": [
+                  "So what do you say?",
+                  "You can't give me the dreams that are mine anyway",
+                  "You're half the world away"
+                ]
+              },
+              {
+                "lines": [
+                  "You're half the world away",
+                  "And when I leave this planet",
+                  "You know I'd stay, but I just can't stand it and",
+                  "I can feel the warning signs running around my mind"
+                ]
+              },
+              {
+                "lines": [
+                  "And if I can leave this spirit",
+                  "I'll find me a hole and I'll live in it and",
+                  "I can feel the warning signs running around my mind"
+                ]
+              },
+              {
+                "lines": [
+                  "So here I go",
+                  "I'm still scratching around in the same old hole",
+                  "My body feels young, but my mind is very old"
+                ]
+              },
+              {
+                "lines": [
+                  "So what do you say?",
+                  "You can't give me the dreams that are mine anyway",
+                  "You're half the world away"
+                ]
+              },
+              {
+                "lines": [
+                  "You're half the world away",
+                  "I've been lost, I've been found",
+                  "But I don't feel down"
+                ]
+              },
+              {
+                "lines": [
+                  "You're half the world away",
+                  "I've been lost, I've been found",
+                  "But I don't feel down",
+                  "I don't feel down",
+                  "(I don't feel down)"
+                ]
+              }
             ]
-            },
-            {
-            "lines": [
-            "And when I leave this island",
-            "I'll book myself into a soul asylum",
-            "I can feel the warning signs running around my mind"
-            ]
-            },
-            {
-            "lines": [
-            "So here I go",
-            "I'm still scratching around in the same old hole",
-            "My body feels young, but my mind is very old"
-            ]
-            },
-            {
-            "lines": [
-            "So what do you say?",
-            "You can't give me the dreams that are mine anyway",
-            "You're half the world away"
-            ]
-            },
-            {
-            "lines": [
-            "You're half the world away",
-            "And when I leave this planet",
-            "You know I'd stay, but I just can't stand it and",
-            "I can feel the warning signs running around my mind"
-            ]
-            },
-            {
-            "lines": [
-            "And if I can leave this spirit",
-            "I'll find me a hole and I'll live in it and",
-            "I can feel the warning signs running around my mind"
-            ]
-            },
-            {
-            "lines": [
-            "So here I go",
-            "I'm still scratching around in the same old hole",
-            "My body feels young, but my mind is very old"
-            ]
-            },
-            {
-            "lines": [
-            "So what do you say?",
-            "You can't give me the dreams that are mine anyway",
-            "You're half the world away"
-            ]
-            },
-            {
-            "lines": [
-            "You're half the world away",
-            "I've been lost, I've been found",
-            "But I don't feel down"
-            ]
-            },
-            {
-            "lines": [
-            "You're half the world away",
-            "I've been lost, I've been found",
-            "But I don't feel down",
-            "I don't feel down",
-            "(I don't feel down)"
-            ]
-            }
-            ]
-            }
+          }
         },
         {
           "name": "Nature Boy",
@@ -1088,105 +1088,64 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "We go way back in time (time)",
+                  "Through diamond eyes"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "We go running way back in time",
+                  "Through diamond eyes"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "We gotta go back to the start",
+                  "Back 'til we are back home"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "We gotta go back to the start",
+                  "Back 'til we are back home"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "Tick-tock, tick-tock",
+                  "Tick-tock, tick"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Where is the rain?",
+                  "Are we meant to go down again?",
+                  "We go down"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Lightening strikes",
+                  "Wisdom cries",
+                  "It's an emergency, emergency"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Conscious all night",
+                  "No one's surprised",
+                  "As long as we...emergency",
+                  "Emergency, emergency"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "Wi-wisdom cries",
+                  "Wisdom cries",
+                  "Wisdom cries",
+                  "Wisdom cries",
+                  "Wisdom cries",
+                  "Wisdom cries"
                 ]
               }
             ]
@@ -1205,105 +1164,102 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "The underdogs are my lions",
+                  "The silent ones are my choir",
+                  "The women will be my soldiers",
+                  "With the weight of life on their shoulders"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "Drink until you’ve had enough",
+                  "I’ll drink from your hands",
+                  "I will be your warrior",
+                  "I will be your lamb"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Ooh-eeh-aah, eeh-aah-aah-ah",
+                  "Aah-ooh-eh-ah-eeh-aah",
+                  "Ooh-eeh-aah"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Till Queendom come",
+                  "Till Queendom come",
+                  "My Queendom come",
+                  "My Queendom come"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "The sea waves are my evening gown",
+                  "And the Sun on my head is my crown",
+                  "I made this Queendom on my own",
+                  "And all the mountains are my throne"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Drink until you’ve had enough",
+                  "I’ll drink from your hands",
+                  "I will be your warrior",
+                  "I will be your lamb"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Ooh-eeh-aah, eeh-aah-aah-ah",
+                  "Aah-ooh-eh-ah-eeh-aah",
+                  "Ooh-eeh-aah"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Till Queendom come",
+                  "Till Queendom come",
+                  "My Queendom come",
+                  "My Queendom come"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "Queendom come",
+                  "My Queendom come"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
+                  "I hunt the grounds for empathy",
+                  "And hate the way it hides from me",
+                  "With care and thirst I have become",
+                  "You have a home in my Queendom"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
+                  "You have a home in my Queendom",
+                  "You have a place in my Queendom",
+                  "You have a home"
                 ]
               },
               {
                 "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "Till Queendom come",
+                  "Till Queendom come",
+                  "My Queendom come",
+                  "My Queendom come"
+                ]
+              },
+              {
+                "lines": [
+                  "My Queendom come",
+                  "My Queendom come",
+                  "My Queendom come",
+                  "My Queendom come",
+                  "My Queendom come"
                 ]
               }
             ]
@@ -1316,105 +1272,76 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "Can you tell if I’m cold?",
+                  "If I’m out of daydreams?",
+                  "If I lose what is loved",
+                  "Will a new love awake me?",
+                  "I am touched by wonder",
+                  "When I'm blind in the dark"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "But you drown me in daylight",
+                  "Don’t swim with me, darling",
+                  "I prefer the sound of you",
+                  "When you are away"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "If I am left with a rose in my hand, let it die",
+                  "It's the beauty in forgotten love",
+                  "And I don't care if you don't understand why I cry",
+                  "It's the beauty in forgotten love"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "I forget how emotions dance when they aren’t inside of me",
+                  "I forget how the sun feels when she isn’t around me",
+                  "And my dreams become sweeter when something is missing",
+                  "I’m in love with the hunt itself",
+                  "It makes me feel alive, alive"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "If I am left with a rose in my hand, let it die",
+                  "It's the beauty in forgotten love",
+                  "And I don't care if you don't understand why I cry",
+                  "It's the beauty in forgotten love"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Reslianna Faresuu",
+                  "Hongaaah firlessiranna",
+                  "Faressu hongaaah",
+                  "Firelessinaniree suranna",
+                  "Rukireee rukireee",
+                  "Resilanna faresuu",
+                  "Hungaaah",
+                  "Firelessina firelessina firelessina"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "I release my body and there is no ghost of you inside my mind",
+                  "I am moving on and thank God you let me try",
+                  "You are the reason I can dance within a fire of goodbyes, of goodbyes",
+                  "I can lie in a dark room without the feeling that I’m lonely",
+                  "Oh, oh, oh, oh, ah (it’s the beauty in forgotten love)"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "If I am left with a rose in my hand, let it die",
+                  "It's the beauty in forgotten love",
+                  "And I don't care if you don't understand why I cry",
+                  "It's the beauty in forgotten love",
+                  "Oh, oh, oh, oh, ah (it’s the beauty in forgotten love)",
+                  "Oh, oh, oh, oh, ah (it’s the beauty in forgotten love)"
                 ]
               }
             ]
@@ -1427,105 +1354,89 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "How cold the tear can feel on warm skin?",
+                  "So delicate, violently it begins",
+                  "Within this universe I will be lost",
+                  "Moving from rivers to mountain tops"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "Can't stay here",
+                  "I'll throw myself in the ocean",
+                  "I lift myself and run"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Like a gentle earthquake, it intensifies",
+                  "It's like my lungs are breathing fire",
+                  "(My heart, my head, my mind!)",
+                  "And if the fire dies",
+                  "My body will be the truth",
+                  "And the light will guide her",
+                  "Light will guide her"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "The fascinating way you change your color",
+                  "The ugly and the flawless beauty of us",
+                  "With the combination of purple and pink",
+                  "The only traces of our love blossoming"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "I'm not home",
+                  "In a place where love has been broken",
+                  "I lift myself and run"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Like a gentle earthquake, it intensifies",
+                  "It's like my lungs are breathing fire",
+                  "(My heart, my head, my mind!)",
+                  "And if the fire dies",
+                  "My body will be the truth",
+                  "And the light will guide her",
+                  "(My heart, my head, my mind!)"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Twisted body parts moving synchronized",
+                  "Watching lightning strike in my lover's eyes",
+                  "All the flowers grow to a luscious field",
+                  "All connecting love becomes a human shield"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "In the eleventh hour",
+                  "Finally a hidden flower",
+                  "In the last moment",
+                  "Finally opens"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "Like a gentle earthquake, it intensifies",
+                  "It's like my lungs are breathing fire",
+                  "(My heart, my head, my mind!)",
+                  "And if the fire dies",
+                  "My body will be the truth",
+                  "And the light will guide her",
+                  "(My heart, my head, my mind!)"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "Twisted body parts moving synchronized",
+                  "Watching lightning strike in my lover's eyes",
+                  "All the flowers grow to a luscious field",
+                  "All connecting love becomes a human shield"
                 ]
               }
             ]
@@ -1538,105 +1449,109 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "I don't know why",
+                  "But I feel down",
+                  "You need to know",
+                  "I can't go on"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "I was a rose",
+                  "I was an animal",
+                  "Don't let me change",
+                  "Don't let me go"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "All around is stone",
+                  "All is soft inside"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "All that I know",
+                  "Lies within emotion",
+                  "Words remain unspoken",
+                  "Lead me through the dark"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "All that I see",
+                  "Came to me in colours",
+                  "Lasted for a moment",
+                  "Lead me through the dark"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "All that I know",
+                  "All that I know",
+                  "Ah, ah"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "I need it all",
+                  "I don't know where to begin",
+                  "I carry more than you see",
+                  "My dreams are bigger than me"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Please bring me light",
+                  "I bear a shadow",
+                  "I call them back to me",
+                  "So they could feed on me"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "All is stone",
+                  "And all is soft inside"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
+                  "All that I know",
+                  "Lies within emotion",
+                  "Words remain unspoken",
+                  "Lead me through the dark"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
+                  "All that I see",
+                  "Came to me in colours",
+                  "Lasted for a moment",
+                  "Lead me through the dark"
                 ]
               },
               {
                 "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "All that I know",
+                  "All that I know",
+                  "Ah, ah"
+                ]
+              },
+              {
+                "lines": [
+                  "Did you know",
+                  "That we're all",
+                  "Turning softer inside?",
+                  "We can save",
+                  "What is pure",
+                  "If the hearts can collide"
+                ]
+              },
+              {
+                "lines": [
+                  "All that I've ever known",
+                  "Is the universe is wild",
+                  "Is the universe is wild"
                 ]
               }
             ]
@@ -1649,105 +1564,76 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "Eyes blue and hollow",
+                  "As it rains against their will",
+                  "Feathers falling out of a pillow",
+                  "As if time's standing still"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "I can’t remember much more",
+                  "But I know it happened quiet",
+                  "So quiet"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Words falling out through the window",
+                  "All that remains is a silent call",
+                  "Is the Earth colored red?",
+                  "As I land like a flower on the meadow"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Love is wild",
+                  "",
+                  "You fell apart",
+                  "Like a stone can be broken into sand",
+                  "A thousand pieces",
+                  "Spread across a crying land"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "And you can’t remember that day",
+                  "But you know it happened quiet",
+                  "So quiet"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Words falling out through the window",
+                  "All that remains is a silent call",
+                  "Is the Earth colored red?",
+                  "As I land like a flower on the meadow"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Love is wild",
+                  "",
+                  "Are your dreams as dead as they seem?",
+                  "Are your dreams as dead as they seem?"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Don’t you speak over my voice",
+                  "I will return from the shadows",
+                  "And I’ll bleed in your bed",
+                  "Turn it red",
+                  "Like the ground outside your window"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "Love is wild",
+                  "",
+                  "Love is wild",
+                  "Love is wild",
+                  "Love is wild"
                 ]
               }
             ]
@@ -1760,105 +1646,47 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "He told me I belong in a churchyard",
+                  "He told me I could walk away",
+                  "But I wouldn't get far",
+                  "Tell me how do people know what is hurt, what is love?",
+                  "He told me I belong in a churchyard"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "Words pointy like arrows",
+                  "Wounds no one can see",
+                  "He closed all the windows",
+                  "As his anger broke free",
+                  "I will not remember",
+                  "You as somebody nice",
+                  "Please, will you remember me and cry?"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "He told me I belong in a churchyard",
+                  "He told me I could walk away",
+                  "But I wouldn't get far",
+                  "Tell me how do people know what is hurt, what is love?",
+                  "He told me I belong in a churchyard"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Hate followed him gently",
+                  "Black seeds in his heart",
+                  "Roots tearing the love in him apart"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "He told me I belong in a churchyard",
+                  "He told me I could walk away",
+                  "But I wouldn't get far",
+                  "Tell me how do people know what is hurt, what is love?",
+                  "He told me I belong in a churchyard"
                 ]
               }
             ]
@@ -1871,105 +1699,58 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "There's ice in my water",
+                  "And when I drink, it cuts my tongue",
+                  "There's glass on the playground",
+                  "It cuts my skin when I run"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "And from the dark, into the light",
+                  "I saw a star burst into life",
+                  "And in the corner of your eye",
+                  "I saw a dream that never died"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Speak to me, speak to me",
+                  "With love in your words",
+                  "Make for me, make for me",
+                  "A soft universe"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "My body falls off the side of her bed",
+                  "And now I know what love feels like",
+                  "Don't let me turn into pain",
+                  "All of this is loveliness"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "Chaos came, we laid our head",
+                  "Down on the feather cotton bed",
+                  "We find a heart and catch your breath",
+                  "Let the universe go red"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Speak to me, speak to me",
+                  "With love in your words",
+                  "Make for me, make for me",
+                  "A soft universe"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "Speak to me, speak to me",
+                  "With, with",
+                  "Make for me, make for me",
+                  "A soft universe"
                 ]
               }
             ]
@@ -1982,105 +1763,76 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "It's a feeling growing old with time",
+                  "Like a restless in the leaves calming down",
+                  "The world is a hole and we all seem to fall",
+                  "Down under"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "And the universe is growing tall",
+                  "And we are caving into dreams of the space",
+                  "Unfolding our arms cannot do any harm",
+                  "Violent contractions"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "And if there is a God, would we even know his name?",
+                  "And if there is a God, I think he would shake his head",
+                  "And turn away"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "So belong to us all",
+                  "Be God in the shape of a girl",
+                  "Who walks this world",
+                  "And I beg, I beg to be drained"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "From the pain I have soaked myself in",
+                  "So I can stay",
+                  "Okay, and more than okay for a while",
+                  "For a while, for a while"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Infections of a different kind",
+                  "The world has been attacked by our pain",
+                  "If I am the world then why would I hurt",
+                  "All that is living?"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "And if there is a God, would he then believe in us?",
+                  "And if there is a God, I think he can't hear all of us"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Belong to us all",
+                  "Be God in the shape of a girl",
+                  "Who walks this world",
+                  "And I beg, I beg to be drained"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "From the pain I have soaked myself in",
+                  "So I can stay",
+                  "Okay, and more than okay for a while",
+                  "For a while, for a while"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "This is the breath, this is the breath"
                 ]
               }
             ]
@@ -2099,105 +1851,91 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "Hold your hands up to your chest",
+                  "And tell me what you find",
+                  "Out of you, a sparrow comes",
+                  "And sees without its eyes"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "Don't forget who you are even though you are hurt",
+                  "You are caught in a wire and soon it will burst"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "You can cry, drinking your eyes",
+                  "Do you miss the sadness when it's gone? (Gone)",
+                  "And you let the river run wild (gone)",
+                  "And you let the river run wild"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "I'm a shadow, I am cold",
+                  "And now I seek for warmth",
+                  "Stitch your skin onto my skin",
+                  "And we won't be alone"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "Don't forget who you are even though you're in need",
+                  "Like a bird in the night, your emotions deserves to be freed"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "You can cry, drinking your eyes",
+                  "Do you miss the sadness when it's gone? (Gone)",
+                  "And you let the river run wild (gone)",
+                  "And you let the river run wild"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "You can cry (you can cry), drinking your eyes",
+                  "I don't miss the sadness when it's gone (gone)",
+                  "And the feeling of it makes me smile (gone)",
+                  "As I let the river run wild"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "You can cry, you can cry, you can cry",
+                  "To where the ocean is bigger",
+                  "Become a part of the river, ah",
+                  "You can cry, you can cry, you can cry",
+                  "Can you let the river run wild?"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "You can cry, drinking your eyes",
+                  "(You can cry, you can cry, you can cry)",
+                  "Do you miss the sadness when it's gone? (Gone)",
+                  "(You can cry, you can cry, you can cry)",
+                  "And you let the river run wild (gone)",
+                  "And you let the river run wild"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
+                  "You can cry, drinking your eyes",
+                  "(You can cry, you can cry, you can cry)",
+                  "(To where the ocean is bigger)",
+                  "I don't miss the sadness when it's gone (gone)",
+                  "And the feeling of it makes me smile (gone)",
+                  "As I let the river run wild"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "You can cry, drinking your eyes",
+                  "Do you miss the sadness when it's gone?",
+                  "And you let the river run wild",
+                  "And you let the river run wild"
                 ]
               }
             ]
@@ -2210,105 +1948,116 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "You are the victim",
+                  "The victim of my love",
+                  "I dangle up on rooftops",
+                  "Before I push you off"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "I stand at the headlights",
+                  "Looking for a corner where I can't be found",
+                  "With a goddess in my right eye",
+                  "Watching every lover on the battleground"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "You're hunting for love",
+                  "Killing for pleasure",
+                  "Lost in a concrete jungle",
+                  "If I am alone"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Make me a stranger",
+                  "Lost in a concrete jungle (He-lay)"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "I'm an animal, animal",
+                  "Hunting for an animal, animal",
+                  "Hunting for love",
+                  "Killing for pleasure",
+                  "Lost in a concrete jungle (He-lay)"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Isolation makes me hungry",
+                  "Will you stay here till I sleep?",
+                  "You'll return home in the morning",
+                  "But you never really leave"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "I keep the memories alive",
+                  "The weight upon my shoulders felt so divine",
+                  "With a goddess in my right eye",
+                  "Watching every step I take before I die"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "You're hunting for love",
+                  "Killing for pleasure",
+                  "Lost in a concrete jungle",
+                  "If I am alone"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "Make me a stranger",
+                  "Lost in a concrete jungle (He-lay)"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
+                  "I'm an animal, animal",
+                  "Hunting for an animal, animal",
+                  "Hunting for love",
+                  "Killing for pleasure",
+                  "Lost in a concrete jungle (He-lay)"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
+                  "I become an animal, animal",
+                  "Hunting for an animal, animal"
                 ]
               },
               {
                 "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "Let me become an animal",
+                  "Let me become an animal",
+                  "'Cause when you are an animal",
+                  "You lose control"
+                ]
+              },
+              {
+                "lines": [
+                  "You're hunting for love",
+                  "Killing for pleasure",
+                  "Lost in a concrete jungle",
+                  "If I am alone"
+                ]
+              },
+              {
+                "lines": [
+                  "You make me a stranger",
+                  "Lost in a concrete jungle (He-lay)"
+                ]
+              },
+              {
+                "lines": [
+                  "I'm an animal, animal",
+                  "Hunting for an animal, animal",
+                  "I become an animal, animal",
+                  "Hunting for an animal, animal (Ho, ho)"
                 ]
               }
             ]
@@ -2321,105 +2070,84 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "This voice is calling for a touch to be undone",
+                  "I hope love will come to us again",
+                  "As a place we all can come"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "And if I'm blinded, will my eyes become the planets?",
+                  "Will I float or will I drown?",
+                  "This voice, is it calling for the world to pull me down?"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "I feel time looking out my window",
+                  "Watching me dance on the Moon",
+                  "I feel time looking out my window",
+                  "Watching me dance on the Moon"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Oh-oh-eh-oh-oh-eh-oh-ah",
+                  "Oh-oh-eh-oh-oh-eh-oh-ah",
+                  "Oh-oh-eh-oh-oh-eh-oh-ah, oh-eh-oh-ah",
+                  "Eh-oh-oh-eh-oh-ah, oh-eh-oh-ah"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "I dance as I'm falling, but I never touch the ground",
+                  "One day, I will penetrate the earth",
+                  "And explode in motion sounds"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "And if I listen, will my mouth be filled with fire?",
+                  "Will I laugh or will I cry? Ah",
+                  "This time, I'll become everyone and the world will wonder why"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "I feel time looking out my window",
+                  "Watching me dance on the Moon",
+                  "I feel time looking out my window",
+                  "Watching me dance on the Moon (I feel time)"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "I'm an angel, I'm an atom",
+                  "When nobody enters my room",
+                  "I feel time, I feel time"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "I feel time (feel time)",
+                  "I feel time",
+                  "I feel time",
+                  "I feel time"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
+                  "I feel time looking out my window",
+                  "Watching me dance on the Moon",
+                  "I feel time looking out my window",
+                  "Watching me dance on the Moon (I feel time)"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "I'm an angel, I'm an atom",
+                  "When nobody enters my room",
+                  "I feel time, I feel time"
                 ]
               }
             ]
@@ -2432,105 +2160,108 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "White, silicon eyes, watching storms, sitting quiet",
+                  "Reading books in the heat of city lights",
+                  "Bored, everyone's bored",
+                  "When I'm restless, put me under the night life stars",
+                  "And I will feel grounded"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "I know I'm just a girl",
+                  "But can I change lives?",
+                  "If I am nothing, if I am trying, I think I can",
+                  "I step on broken glass and dream of soft clouds",
+                  "When feelings are heavy, they become all we are"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "And we become night time dreamers",
+                  "And street walkers, small talkers",
+                  "When we should be daydreamers",
+                  "And moonwalkers and dream talkers"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "And we become night time dreamers",
+                  "Street walkers, small talkers",
+                  "When we should be daydreamers",
+                  "And moonwalkers and dream talkers",
+                  "In real life"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "The quiet lust belongs to all of us",
+                  "And drives us closer into the madness",
+                  "Of the world, of a girl",
+                  "(And it suits me just fine)",
+                  "'Cause everyone dies, and nobody loves",
+                  "And somebody dies right now",
+                  "I hear the quiet, sweet music that no one's sing"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "And we become night time dreamers",
+                  "Street walkers and small talkers",
+                  "When we should be daydreamers",
+                  "And moonwalkers and dream talkers"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "And we become night time dreamers",
+                  "Street walkers, small talkers",
+                  "When we should be daydreamers",
+                  "And moonwalkers and dream talkers",
+                  "In real life"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "All I ever know is what I dream about when I'm sober",
+                  "Never turn away from love",
+                  "Before the love, you have is over",
+                  "All I ever know is what I dream about when I'm sober",
+                  "Never turn away from love",
+                  "Before the love, you have is over"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "Nothing can die while we are here",
+                  "Nothing can die while we are here",
+                  "Nothing can die while we are here",
+                  "Nothing can die while we are here"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
+                  "Then we become night time dreamers",
+                  "(Nothing can die while we are here)",
+                  "Street walkers and small talkers",
+                  "(Nothing can die while we are here)",
+                  "When we should be daydreamers",
+                  "(Nothing can die while we are here)",
+                  "And moonwalkers and dream talkers",
+                  "(Nothing can die while we are here)"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "And we become night time dreamers",
+                  "(Nothing can die while we are here)",
+                  "Street walkers, small talkers",
+                  "(Nothing can die while we are here)",
+                  "When we should be daydreamers",
+                  "(Nothing can die while we are here)",
+                  "When we should be daydreamers",
+                  "(Nothing can die while, nothing can die)",
+                  "Daydreamers"
                 ]
               }
             ]
@@ -2543,105 +2274,101 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "I've been born for sometime",
+                  "And I got death on my mind",
+                  "Come and follow me (ah)",
+                  "Away from the nightlife"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "Sleeping in nirvana",
+                  "And I will long for the gutter",
+                  "When I'm in your arms (ah)",
+                  "I long for my freedom (ah)"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "In many ways, we're not the same, but in some ways, we are",
+                  "Looking for something new in the skin of an avatar"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "All we ever had is hunger (hunger, hunger)",
+                  "All we never get is power (hunger, hunger)",
+                  "Would you ever feed each other?",
+                  "Eh-oh-eh-oh (do we ever have power?)"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "All we ever had is hunger",
+                  "Hunger, oh"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Your body is a garden",
+                  "Cared for or forgotten",
+                  "Kill me with medicine",
+                  "Heal me with poison"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Imagine all the naked people under work machines",
+                  "If I could not open my mouth, then would you talk for me?"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "All we ever had is hunger (hunger, hunger)",
+                  "All we never get is power (hunger, hunger, oh)",
+                  "Would you ever feed each other?",
+                  "Eh-oh-eh-oh (do we ever have power?)"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "All we ever had is hunger",
+                  "Hunger, oh"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
+                  "A-yo, a-yo, a-yo",
+                  "Oh, a-yo",
+                  "A-yo, a-yo, a-yo (hunger)",
+                  "A-yo, a-yo, a-yo"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
+                  "Oh, a-yo",
+                  "A-yo, a-yo, a-yo (hunger)"
                 ]
               },
               {
                 "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "All we ever had is hunger (hunger, hunger, oh)",
+                  "All we never get is power (hunger, hunger, oh)",
+                  "Would you ever feed each other?",
+                  "Eh-oh-eh-oh (do we ever have power?)"
+                ]
+              },
+              {
+                "lines": [
+                  "All we ever had is hunger",
+                  "Hunger, oh"
+                ]
+              },
+              {
+                "lines": [
+                  "Hunger",
+                  "Oh, oh",
+                  "Hunger"
                 ]
               }
             ]
@@ -2654,105 +2381,68 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "Never knew this curious head of mine",
+                  "Never knew what is love if kept inside",
+                  "Nothing but an endless, empty heart",
+                  "Like laying a seed within the dark"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "Give me a piece of your heart, of your heart",
+                  "Give me a piece of your hands as we go"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "I wouldn't mind if I can't find, I can't find",
+                  "Anything to save our kind",
+                  "All the pieces of my body's gone",
+                  "Look at me now, don't tell me how I feel inside",
+                  "Every pieces that I've lost, I have loved"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Come, my wonders, after dawn restores",
+                  "Waiting for the world to turn once more",
+                  "Listening to the deep magnetic sound",
+                  "Hunting for a victim, lying down"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "Come back to me after peace restores",
+                  "Soulless creatures"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Fearsome hearts, I wouldn't lie",
+                  "I got memories that travels my mind",
+                  "Fear not, fear not when you go",
+                  "I got pieces of your hate in my soul",
+                  "Look at me now (look at me now)",
+                  "I'm falling apart in daylight",
+                  "All the pieces that I've lost, I have loved"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "I wouldn't mind if I can't find, I can't find",
+                  "Anything to save our kind",
+                  "All the pieces of my body's gone",
+                  "Look at me now (look at me now)",
+                  "I'm falling apart in daylight",
+                  "All the pieces that I've lost, I have loved"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "Look at me now (look at me now)",
+                  "I gave both sides of me",
+                  "I give both sides of me",
+                  "I give both sides of me"
                 ]
               }
             ]
@@ -2765,105 +2455,91 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "I put my tears in bottles",
+                  "In case if I need them later",
+                  "You never know, you never know",
+                  "And if I get thirsty",
+                  "Will they make me sad forever?",
+                  "Forever?"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "Oh, cover your eyes",
+                  "Cover your eyes",
+                  "Hide me inside, under your spine",
+                  "Under your spine"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Oh, oh-oh",
+                  "Oh, oh-oh",
+                  "Oh, oh-oh",
+                  "Oh"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "I will kindly watch you sleep",
+                  "I find out that your eyes are open",
+                  "I hide other pieces that you never would have liked",
+                  "If you knew about them",
+                  "So I hide my children"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "Oh, cover your eyes",
+                  "Cover your eyes",
+                  "Hide me inside, under your spine",
+                  "Under your spine"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Oh, oh-oh",
+                  "Oh, oh-oh",
+                  "Under your spine",
+                  "Oh, oh-oh",
+                  "Oh, oh-oh",
+                  "Under your spine"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Mmm, ah",
+                  "Mmm, ooh",
+                  "(I watch you sleep with open)",
+                  "(I watch you sleep with open eyes)",
+                  "(I watch you sleep with open)",
+                  "Oh"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Oh, cover your eyes",
+                  "Cover your eyes",
+                  "Hide me inside, under your spine",
+                  "Under your spine"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "Oh, oh-oh",
+                  "Oh, oh-oh",
+                  "Under your spine",
+                  "Oh, oh-oh",
+                  "Oh, oh-oh",
+                  "(Under your spine)"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "Down your spine, down your spine",
+                  "Down your spine, down your spine",
+                  "Oh, oh-oh",
+                  "Under your spine"
                 ]
               }
             ]
@@ -2876,105 +2552,96 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "Hello? Hello?",
+                  "Hello? Hello? Hello?",
+                  "Hello? Hello?"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "Are you awake?",
+                  "Or are you sleeping?",
+                  "Are you afraid?",
+                  "We've been waiting for this meeting"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Oh superman, are you with me when I am too weak?",
+                  "Oh Mother, are you dreaming of me in your sleep?"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "We have come here for you",
+                  "And we're coming in peace",
+                  "Mothership will take you on higher, higher",
+                  "This world you live in is not a place for someone like you",
+                  "Come on, let us take you home"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "It's time to go",
+                  "You are infected",
+                  "Come as you are",
+                  "Don't be scared of us, you'll be protected"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "I guess you are a different kind of human",
+                  "I guess you are a different kind of human"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "Omega hai foleet, Omega hai foleet",
+                  "Omega toneca, Omega for let in",
+                  "Omega hai foleet, Omega hai foleet",
+                  "Omega toneca, Omega for let in"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "There is a flaw",
+                  "In man-made matters",
+                  "But you are pure",
+                  "And we have to get you out of here"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "We have come here for you",
+                  "And we're coming in peace",
+                  "Mothership will take you on higher, higher",
+                  "This world you live in is not a place for someone like you",
+                  "Come on, let us take you home"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
+                  "We have come here for you",
+                  "And we're coming in peace",
+                  "Mothership will take you on higher, higher",
+                  "This world you live in is not a place for someone like you",
+                  "Come on, let us take you home"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
+                  "Omega hai foleet, Omega hai foleet",
+                  "Omega toneca, Omega for let in",
+                  "Omega hai foleet, Omega hai foleet",
+                  "Omega toneca, Omega for let in"
                 ]
               },
               {
                 "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "Hello? Hello?",
+                  "Hello? Hello?",
+                  "Is anyone out there?",
+                  "Am I home? Am I home?"
                 ]
               }
             ]
@@ -2987,105 +2654,80 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "All of my life I've been hunting",
+                  "I've been a girl, I've been a boy",
+                  "Digging my feet into the ground like an apple tree",
+                  "Wanting to live with a purpose"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "Skin is a word, love is not a sin",
+                  "People are bad, people are good",
+                  "Just like the Moon is a stone",
+                  "But it's a star when it's dark and now she's hiding"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "If you've seen what a heart is, you've seen its color",
+                  "If I ever knew how we could guide it",
+                  "I would take care of its children, become their mother",
+                  "If I ever knew how we could hide it, hide it"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Let her save the world, she is just a girl",
+                  "Let him save them all, he is just a boy",
+                  "Let her save the world, she is just a girl",
+                  "Let him save them all, he is just a boy"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "Hunger is quiet if you do it right",
+                  "Hunter is loud and predictable",
+                  "Scaring away every prey",
+                  "So they're gone before the hunter arrives"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "Would you be kind and put away your sword?",
+                  "You cannot cut away what we've got",
+                  "You cannot kill what we are",
+                  "We are not here in physical form"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "You've seen where the knife is, its dark location",
+                  "If I ever knew how we could hide it",
+                  "I would cut into our anger, make pure emotion",
+                  "If I ever knew how we could hide it, hide it"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "Let her save the world, she is just a girl",
+                  "Let him save them all, he is just a boy",
+                  "Let her save the world, she is just a girl",
+                  "Let him save them all, he is just a boy"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "Can you carry the weight of mortality?",
+                  "The explosions around you is your symphony"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "Let her save the world, she is just a girl",
+                  "Let him save the poor, he is just a boy",
+                  "Let her save the world, she is just a girl",
+                  "Let him save the poor, he is just a boy"
                 ]
               }
             ]
@@ -3098,105 +2740,106 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "Just like the seed",
+                  "I don't know where to go",
+                  "Through dirt and shadow, I grow",
+                  "I'm reaching light through the struggle"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "Just like the seed",
+                  "I'm chasing the wonder",
+                  "I unravel myself",
+                  "All in slow motion"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "You cannot eat money, oh, no",
+                  "You cannot eat money, oh, no",
+                  "When the last tree has fallen",
+                  "And the rivers are poisoned",
+                  "You cannot eat money, oh, no"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "You cannot eat money, oh, no",
+                  "You cannot eat money, oh, no",
+                  "When the last tree has fallen",
+                  "And the rivers are poisoned",
+                  "You cannot eat money, oh, no",
+                  "Oh, no"
                 ]
               },
               {
                 "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
+                  "Suffocate me",
+                  "So my tears can be rain",
+                  "I will water the ground where I stand",
+                  "So the flowers can grow back again"
                 ]
               },
               {
                 "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
+                  "'Cause just like the seed",
+                  "Everything wants to live",
+                  "We are burning our fingers",
+                  "But we learn and forgive, ah"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
+                  "You cannot eat money, oh, no",
+                  "You cannot eat money, oh, no",
+                  "When the last tree has fallen",
+                  "And the rivers are poisoned",
+                  "You cannot eat money, oh, no"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
+                  "You cannot eat money, oh, no",
+                  "You cannot eat money, oh, no",
+                  "When the last tree has fallen",
+                  "And the rivers are poisoned",
+                  "You cannot eat money, oh, no",
+                  "Oh, no"
                 ]
               },
               {
                 "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
+                  "Feed me sunlight, feed me air",
+                  "(In a place where nothing matters)",
+                  "Feed me truth and feed me prayer",
+                  "(Dancing around a shooting star)",
+                  "(And every cell remembers what have taken us this far)",
+                  "Feed me sunlight, feed me air",
+                  "(I see images of killer whales)",
+                  "Feed me truth and feed me prayers",
+                  "(Sleeping in a desert trail)",
+                  "(Dreaming of a parallel world where nothing ever hurts)",
+                  "(Dreaming of a parallel world where nothing ever hurts)"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
+                  "You cannot eat money, oh, no",
+                  "You cannot eat money, oh, no",
+                  "When the last tree has fallen",
+                  "And the rivers are poisoned",
+                  "You cannot eat money, oh, no"
                 ]
               },
               {
                 "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "You cannot eat money, oh, no",
+                  "You cannot eat money, oh, no",
+                  "When the last tree has fallen",
+                  "And the rivers are poisoned",
+                  "You cannot eat money, oh, no",
+                  "Oh, no"
                 ]
               }
             ]
@@ -3209,105 +2852,35 @@
             "verses": [
               {
                 "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
+                  "Am I home? Mmm",
+                  "",
+                  "Mmm, mmm (Ooh, ooh)",
+                  "Mmm, mmm (Ooh)",
+                  "Oh, ah",
+                  "Mmm, mmm"
                 ]
               },
               {
                 "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
+                  "Am I, am I, am I?",
+                  "(Am I?) Hello?",
+                  "Am I, am I, am I?",
+                  "(Eh, am I?)",
+                  "You are home",
+                  "You are home, hmm",
+                  "(Omega hai foleet, omega hai foleet)",
+                  "(Omega toneca, omega for let in)",
+                  "You are home, you are home",
+                  "(Omega hai foleet, omega hai foleet)",
+                  "(Omega toneca, omega for let in)"
                 ]
               },
               {
                 "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
+                  "In it, the world will not hurt",
+                  "The good ones always die",
+                  "So that is why we bring them here",
+                  "Now you are home"
                 ]
               }
             ]
@@ -3323,1665 +2896,105 @@
           "name": "Everything Matters",
           "duration": "03:33",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "Giving In To The Love",
           "duration": "03:01",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "Cure For Me",
           "duration": "03:18",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "You Keep Me Crawling",
           "duration": "02:59",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "Exist For Love",
           "duration": "04:10",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "Heathens",
           "duration": "03:45",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "The Innocent",
           "duration": "03:27",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "Exhale Inhale",
           "duration": "03:32",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "A Temporary High",
           "duration": "03:23",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "A Dangerous Thing",
           "duration": "03:35",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "Artemis",
           "duration": "02:38",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "Blood In The Wine",
           "duration": "03:29",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "This Could Be A Dream",
           "duration": "04:08",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "A Little Place Called The Moon",
           "duration": "04:10",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         },
         {
           "name": "The Woman I Am",
           "duration": "03:12",
           "lyrics": {
-            "verses": [
-              {
-                "lines": [
-                  "I was listening to the ocean",
-                  "I saw a face in the sand",
-                  "But when I picked it up",
-                  "Then it vanished away from my hands, down"
-                ]
-              },
-              {
-                "lines": [
-                  "I had a dream I was seven",
-                  "Climbing my way in a tree",
-                  "I saw a piece of heaven",
-                  "Waiting, impatient, for me, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "I was painting a picture",
-                  "The picture was a painting of you",
-                  "And for a moment I thought you were here",
-                  "But then again, it wasn't true, down"
-                ]
-              },
-              {
-                "lines": [
-                  "And all this time I have been lying",
-                  "Oh, lying in secret to myself",
-                  "I've been putting sorrow on the farest place on my shelf",
-                  "La-di-da"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?",
-                  "Nobody knows, nobody knows",
-                  "And I was dancing in the rain",
-                  "I felt alive and I can't complain"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I can't take it anymore"
-                ]
-              },
-              {
-                "lines": [
-                  "But I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall",
-                  "And I kept running for a soft place to fall"
-                ]
-              },
-              {
-                "lines": [
-                  "And I was running far away",
-                  "Would I run off the world someday?"
-                ]
-              },
-              {
-                "lines": [
-                  "But now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go",
-                  "Now take me home",
-                  "Take me home where I belong",
-                  "I got no other place to go"
-                ]
-              },
-              {
-                "lines": [
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong, oh, oh, oh",
-                  "Now take me home, home where I belong, oh, no, no",
-                  "Now take me home, home where I belong",
-                  "I can't take it anymore"
-                ]
-              }
-            ]
+            "verses": []
           }
         }
       ]
