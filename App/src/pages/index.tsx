@@ -39,7 +39,6 @@ export default function Home() {
     const album = data.albums.filter((album) => album.name === currentAlbum)[0]
     const song = album.songs.filter((song) => song.name === currentSong)[0]
     setCurrentLyrics(song.lyrics)
-    console.log(currentLyrics)
   }, [currentSong, currentAlbum, currentLyrics])
 
   return (
@@ -53,7 +52,7 @@ export default function Home() {
           <select
             value={currentAlbum}
             onChange={(e) => handleSelectAlbum(e)}
-            className="bg-dark-purple-aurora text-white p-2 rounded-md"
+            className="bg-[#070c11] text-white p-2 rounded-md"
             id="album"
           >
             {data.albums.map((album, index) => {
@@ -72,7 +71,7 @@ export default function Home() {
           <select
             value={currentSong}
             onChange={(e) => handleSelectSong(e)}
-            className="bg-dark-purple-aurora text-white p-2 rounded-md"
+            className="bg-[#070c11] text-white p-2 rounded-md"
             id="song"
           >
             {data.albums
